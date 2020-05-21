@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer p {
+    text-align: right;
+}
+
+img {
+    display: block;
+   margin: 0 auto;
+}
+
+.icon {
+    margin-top: 20px;
+}
